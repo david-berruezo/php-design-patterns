@@ -1,32 +1,53 @@
 # Collection of php design_patterns
 
 ## 01.- Abstract Factory 
+![Screenshot](/AbstractFactory/uml/uml.png)<br>
 ## 02.- Adapter
+![Screenshot](/Adapter/uml/uml.png)<br>
 ## 03.- Bridge
+![Screenshot](/Bridge/uml/uml.png)<br>
 ## 04.- Builder
+![Screenshot](/Builder/uml/uml.png)<br>
 ## 05.- Chain of responsibility
 ![Screenshot](/ChainOfResponsibility/uml/uml.png)<br>
 ## 06.- Command
+![Screenshot](/Command/uml/uml.png)<br>
 ## 07.- Composite
+![Screenshot](/Composite/uml/uml.png)<br>
 ## 08.- Composition
 ## 09.- Decorator
+![Screenshot](/Decorator/uml/uml.png)<br>
 ## 10.- Facade
+![Screenshot](/Facade/uml/uml.png)<br>
 ## 11.- Factory Method
+![Screenshot](/FactoryMethod/uml/uml.png)<br>
 ## 12.- Flyweight
+![Screenshot](/Flyweight/uml/uml.png)<br>
 ## 13.- Interpreter
+![Screenshot](/Interpreter/uml/uml.png)<br>
 ## 14.- Iterator
+![Screenshot](/Iterator/uml/uml.png)<br>
 ## 15.- Mediator
+![Screenshot](/Mediator/uml/uml.png)<br>
 ## 16.- Memento
+![Screenshot](/Memento/uml/uml.png)<br>
 ## 17.- Ejemplos de Objetos
 ## 18.- Observer
+![Screenshot](/Observer/uml/uml.png)<br>
 ## 19.- Prototype
+![Screenshot](/Prototype/uml/uml.png)<br>
 ## 20.- Proxy
+![Screenshot](/Proxy/uml/uml.png)<br>
 ## 21.- Singleton
+![Screenshot](/Singleton/uml/uml.png)<br>
 ## 22.- State
+![Screenshot](/State/uml/uml.png)<br>
 ## 23.- Strategy
+![Screenshot](/Strategy/uml/uml.png)<br>
 ## 24.- Template method
+![Screenshot](/TemplateMethod/uml/uml.png)<br>
 ## 25.- Visitor
-
+![Screenshot](/Visitor/uml/uml.png)<br>
 
 # Introducción a PHP
 
