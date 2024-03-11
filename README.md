@@ -1,4 +1,4 @@
-# Collection of php design_patterns
+# PhP Design Patterns
 
 ## 01.- Abstract Factory 
 ![Screenshot](/AbstractFactory/uml/uml.png)<br>
