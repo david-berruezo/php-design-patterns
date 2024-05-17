@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  web:
+    build:
+      context: ./docker
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/var/www/html
+    restart: always
+    tty: true
+    networks:
+      - app-net
+
+networks:
+  app-net:
